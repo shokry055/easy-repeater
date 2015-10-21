@@ -1,0 +1,40 @@
+﻿.col-1 {
+	text-align: right;
+}
+p.desc {
+	display: block;
+	padding-right: 10px;
+	border-right: 4px #808080 solid;
+	border-left:0px;
+	color: #999999;
+}
+.block-head > span, .block-head > b, .block-head > input{
+	float:right;
+}
+.block-head a{
+	float:left;
+	font-size:12pt;
+}
+.block-head > span, .block-head > b {
+    margin-top: 3px;
+    margin-left: 5px;
+}
+.easy_upload-btn i, .easy_remove-btn i{
+	margin-right:0px;margin-left:10px;
+}
+.easy_upload-btn i,.easy_remove-btn i{
+	margin-right:0px;
+	margin-left:0px;
+}
+.headline-option{
+	padding:3px 10px;
+	font-size:12pt;
+	font-weight:bold;
+	border-right:4px #333333 solid;
+	color:#161616;
+	margin-bottom:20px;
+	border-left:0px transparent solid;
+}
+.loader-img{
+	float:left;
+}

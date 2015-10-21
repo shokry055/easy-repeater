@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: easy repeater\n"
+"POT-Creation-Date: 2015-09-06 21:49+0300\n"
+"PO-Revision-Date: 2015-09-06 21:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: easy-reapeater.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: easy-metabox.php:21
+msgid "easy repeter meta"
+msgstr "الحقول المتكررة"
+
+#: easy-metabox.php:95
+msgid "enable or disable fields"
+msgstr "تفعيل او الغاء الخانات"
+
+#: easy-metabox.php:99 options_admin.php:116
+msgid "Add More Fields"
+msgstr "اضافة حقل جديد"
+
+#: easy-metabox.php:128 easy-reapeater.php:100 options_admin.php:151
+msgid "block title ..."
+msgstr "عنوان البلوك"
+
+#: options-functions.php:277
+msgid "add / change image"
+msgstr "إضافة / تعديل الصورة"
+
+#: options-functions.php:278
+msgid "remove image"
+msgstr "إزالة الصورة"
+
+#: options_admin.php:14 options_admin.php:32
+msgid "repeater options"
+msgstr "خصائص الخانات"
+
+#: options_admin.php:15 options_admin.php:39
+msgid "documentation"
+msgstr "الشرح"
+
+#: options_admin.php:91
+#, php-format
+msgid "all rights resered for %s Powered by : %s by %s ."
+msgstr "جميع الحقوق محفوظة ل %s بدعم من  %s بواسطة %s ."
+
+#: options_admin.php:106
+msgid "Easy Repeater"
+msgstr "Easy Repeater"
+
+#: options_admin.php:108
+msgid "repeating fields"
+msgstr "تكرار الحقول"
+
+#: options_admin.php:162 options_admin.php:262
+msgid "Save Changes"
+msgstr "حفظ التغييرات"
+
+#: options_admin.php:175
+msgid "Easy Repeater options"
+msgstr "اعدادات الاضافة"
+
+#: options_admin.php:176
+msgid "main options"
+msgstr "الاعدادات العامة"
+
+#: options_admin.php:185
+msgid "main repeater options"
+msgstr "اعدادات المتكرر الاساسى "
+
+#: options_admin.php:189
+msgid "main name"
+msgstr "الاسم العام للاضافة"
+
+#: options_admin.php:197
+msgid "main description"
+msgstr "الوصف العام "
+
+#: options_admin.php:205
+msgid "max number of repeats"
+msgstr "اقصى عدد للتكرار"
+
+#: options_admin.php:213
+msgid "menu name"
+msgstr "عنوان القائمة"
+
+#: options_admin.php:221
+msgid "post meta repeater options"
+msgstr "اعدادات المتكرر داخل المواضيع (meta)"
+
+#: options_admin.php:225
+msgid "post meta title"
+msgstr "عنوان المتكرر في المواضيع"
+
+#: options_admin.php:233
+msgid "max number of meta repeats"
+msgstr "اقصى عدد للتكرار داخل المواضيع"
+
+#: options_admin.php:241
+msgid "meta post type"
+msgstr "تصنيفات المواضيع"
+
+#: options_admin.php:257
+msgid "you can choose more than one post type by holding \"CTRL\" "
+msgstr "يمكنك اختيار اكثر من خيار بالضغط على زر كنترول"
+
+#: options_admin.php:273
+msgid "Easy Repeater documentation"
+msgstr "شرح الاستخدام"
+
+#: options_admin.php:274
+msgid "main documentation"
+msgstr "كيفية استخدام الإضافة"
+
+#. Plugin Name of the plugin/theme
+msgid "easy repeater"
+msgstr "easy repeater"
+
+#. Plugin URI of the plugin/theme
+msgid "http://mohamedshokry.com/easy-repeater"
+msgstr "http://mohamedshokry.com/easy-repeater"
+
+#. Description of the plugin/theme
+msgid ""
+"easy repeater is a small wordpress plugin to repeat fields and making "
+"dynamic content easy way."
+msgstr ""
+"ايزي ريبيتر هي أداة بسيطة للوردبريس لتساعد المطورين لعمل عدد لا نهائي من "
+"البلوكات بخيارات عديدة تتيح لهم التحكم في الخيارات . وسهلة الاستخدام لتسهل "
+"عملية بناء القالب ."
+
+#. Author of the plugin/theme
+msgid "shokry055"
+msgstr "محمد شكري"
+
+#. Author URI of the plugin/theme
+msgid "http://mohamedshokry.com"
+msgstr "http://mohamedshokry.com"
+
+#~ msgid "all rights resered for %s    Powered by : %s  by %s . "
+#~ msgstr "جميع الحقوق محفظة ل %s مدار بواسطة %s .. بواسطة %s ."
+
+#~ msgid ""
+#~ "all rights resered for %s    Powered by : <a href=\"https://wordpress.org/"
+#~ "\" target=\"_blank\">Wordpress</a> by <a href=\"http://mohamedshokry.com/"
+#~ "easy-repeater\" target=\"_blank\">easy repeater</a> . "
+#~ msgstr ""
+#~ "جميع الحقوق محفوظة ل %s  بواسطة :  <a href=\"https://wordpress.org/\" "
+#~ "target=\"_blank\">  </a> بواسطة <a href=\"http://mohamedshokry.com/easy-"
+#~ "repeater\" target=\"_blank\">easy repeater</a>"
